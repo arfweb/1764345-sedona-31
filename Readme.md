@@ -1,6 +1,6 @@
 # Личный проект «Седона»
 
-* Студент: [Рамиль Абдуллин](https://up.htmlacademy.ru/htmlcss/31/user/1764345).
+* Студент: [РРамиль Абдуллин](https://up.htmlacademy.ru/htmlcss/31/user/1764345).
 * Наставник: [Валерий Хаслер](https://htmlacademy.ru/profile/id224163).
 
 ---
